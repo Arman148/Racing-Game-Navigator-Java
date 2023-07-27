@@ -1,0 +1,4 @@
+press "CREATE PLAYER"
+after that press "CREATE OPPONENT" several times
+after that "PLAY" -> it will give racers speeds and placss
+press "START" to start the race
